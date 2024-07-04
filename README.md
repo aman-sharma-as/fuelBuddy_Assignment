@@ -37,3 +37,6 @@ npm run dev
 ```
 
 Refer to the Postman documentation for API endpoints. Link below
+
+# Documentation
+[Documentation](https://documenter.getpostman.com/view/19091614/2sA3dygVd9)
